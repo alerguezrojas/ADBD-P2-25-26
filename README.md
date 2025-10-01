@@ -14,6 +14,14 @@ Este documento describe el modelo entidad/relación (E/R) diseñado para la gest
 
 ---
 
+## Diagrama E/R
+
+A continuación se muestra el diagrama entidad/relación diseñado en esta práctica:
+
+![Modelo Entidad/Relación Farmacia](diagrama/ADBD-PRACTICA2-FARMACIA-ER.png)
+
+---
+
 ## Entidades y atributos
 
 ### Medicamento
